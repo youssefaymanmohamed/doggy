@@ -25,9 +25,3 @@ Inverse kinematics is a crucial aspect of controlling robotic systems, determini
   <img src="pics/2.png" width="200" />
   <img src="pics/3.png" width="300" />
 </div>
-
-
-
-## Contributors
-- Your Name - Project Lead
-- Contributor 1 - Teammate
