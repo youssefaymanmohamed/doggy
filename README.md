@@ -1,7 +1,9 @@
 # Doggy
 
 Welcome to Doggy - Your Friendly Quadruped Robot Companion!
-![Doggy](pics/4.jpg)
+<div align="center">
+  <img src="pics/4.jpg" width="300" />
+</div>
 
 ## Introduction
 
