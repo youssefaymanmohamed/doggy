@@ -1,6 +1,7 @@
 # Doggy
 
 Welcome to Doggy - Your Friendly Quadruped Robot Companion!
+![Doggy](pics/4.jpg)
 
 ## Introduction
 
