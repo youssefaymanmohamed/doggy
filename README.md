@@ -21,9 +21,9 @@ Doggy is an open-source quadruped robot designed to serve as a versatile platfor
 Inverse kinematics is a crucial aspect of controlling robotic systems, determining the joint angles needed to achieve a desired end-effector position. In the context of Doggy, inverse kinematics plays a vital role in coordinating the motion of its limbs, enabling smooth and natural movements.
 
 <div align="center">
-  <img src="pics/1.png" width="350" />
-  <img src="pics/2.png" width="250" />
-  <img src="pics/3.png" width="250" />
+  <img src="pics/1.png" width="200" />
+  <img src="pics/2.png" width="200" />
+  <img src="pics/3.png" width="300" />
 </div>
 
 
